@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Grupo Surs">
+  <rect width="64" height="64" rx="14" fill="#050B07"/>
+  <path d="M32 7 51 14v17c0 12-8 20-19 26C21 51 13 43 13 31V14z" fill="none" stroke="#2BEF4A" stroke-width="3.2" stroke-linejoin="round"/>
+  <path d="M32 13 45 18v13c0 8.5-5.5 14.5-13 19-7.500-4.500-13-10.500-13-19V18z" fill="none" stroke="#E6FF1A" stroke-width="1.6" stroke-linejoin="round" opacity=".9"/>
+  <ellipse cx="32" cy="34" rx="5" ry="7" fill="none" stroke="#fff" stroke-width="2"/>
+  <circle cx="32" cy="25" r="2.600" fill="none" stroke="#fff" stroke-width="2"/>
+  <path d="M19 49 45 17" stroke="#2BEF4A" stroke-width="3.400" stroke-linecap="round"/>
+</svg>
